@@ -11,7 +11,7 @@ connected to Kevin Bacon by both starring in “X-Men: First Class,” and Kevin
 starring in “Apollo 13.”</p>
 <p>We can frame this as a search problem: our states are people. Our actions are movies, which take us from one actor to another (it’s true that a movie could take us to multiple different actors, but that’s okay for this problem). Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.</p>
 
-`$ python degrees.py large Loading data... Data loaded.`<br>` Name: Emma Watson`<br> `  Name: Jennifer Lawrence` <br>
+`$ python degrees.py large` <br>  `Loading data... Data loaded.`<br>` Name: Emma Watson`<br> `  Name: Jennifer Lawrence` <br>
 *3 degrees of separation.*<br>
 
 1. Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
