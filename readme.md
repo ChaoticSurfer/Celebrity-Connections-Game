@@ -1,6 +1,6 @@
 <h1> breadth-first search example</h1>
 <p>
-According to the [Six Degrees of Kevin Bacon](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) game, anyone in the Hollywood
+According to the Six Degrees of Kevin Bacon game, anyone in the Hollywood
 film industry can be connected to Kevin Bacon within six steps, where each step consists of finding a film that two
 actors both starred in.
 </p>
@@ -17,6 +17,8 @@ starring in “Apollo 13.”</p>
 1. Emma Watson and Brendan Gleeson starred in Harry Potter and the Order of the Phoenix
 1. Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
 1. Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
+
+[Six Degrees of Kevin Bacon game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
 
 
 
