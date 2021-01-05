@@ -4,11 +4,6 @@ class Node():
         self.action = action
 
 
-'''
-action = (film_id, person_id) same parent -people
-'''
-
-
 class StackFrontier():
     def __init__(self):
         self.frontier = []
