@@ -97,7 +97,6 @@ def backtrack_node(node):
     history.append(node.action)  # last
 
     history.reverse()
-    print(history)
     return history
 
 
