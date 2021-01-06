@@ -18,7 +18,7 @@ starring in “Apollo 13.”</p>
 1. Brendan Gleeson and Michael Fassbender starred in Trespass Against Us
 1. Michael Fassbender and Jennifer Lawrence starred in X-Men: First Class
 
-*[Six Degrees of Kevin Bacon game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)*
+Reference: *[Six Degrees of Kevin Bacon game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)*
 <br><br>
 
 **data structures used:**
