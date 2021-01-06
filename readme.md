@@ -20,5 +20,6 @@ starring in “Apollo 13.”</p>
 
 [Six Degrees of Kevin Bacon game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon)
 
-
-
+*data structures used:*
+* Queue
+* Linked list
